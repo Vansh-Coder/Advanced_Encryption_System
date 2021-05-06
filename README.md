@@ -1,7 +1,7 @@
 # Advanced_Encryption_System
 Advanced Encryption System (AES) with a graphical user interface.
 
-# How to use ?
+## How to use ?
 
 (Referances: The text to be encrypted - 'plaintext' , The text to be decrypted - 'ciphertext')
 
